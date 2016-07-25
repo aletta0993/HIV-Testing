@@ -8,6 +8,11 @@ body {
     
 }
 
+a{
+  text-decoration:none;
+  color:#888;
+}
+
 #SideText {
     position: absolute;
     font-size: 12px;

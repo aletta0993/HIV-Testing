@@ -3,7 +3,7 @@ library(survival)
 library(dplyr)
 library(car)
 
-setwd("~/Documents/RA/Provost/Provost_Database_072915")
+setwd("...")
 provost <- read.csv("Updated\ From\ SPSS-Table\ 1.csv")
 
 
